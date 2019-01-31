@@ -30,7 +30,7 @@
     </div>
     <div class="bg-success d-block text-left text-white">
       <div class="container py-5">
-        <a href="https://qiita.com/Shino_JK" class="social-link">
+        <a href="https://qiita.com/Shino3" class="social-link">
           <i class="fas fa-align-left fa-fw"></i> Qiita
         </a>
       </div>
