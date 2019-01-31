@@ -40,6 +40,8 @@
         <i class="fas fa-envelope"></i> takuma1201[at]gmail.com
       </p>
     </div>
+    <div class="pt-5">
+    </div>
   </div>
 </template>
 

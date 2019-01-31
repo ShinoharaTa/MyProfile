@@ -96,6 +96,8 @@
             <li>タバコ（今はVAPEに移行。電子タバコの世界が楽しい）</li>
           </ul>
     </div>-->
+    <div class="pt-5">
+    </div>
   </div>
 </template>
 

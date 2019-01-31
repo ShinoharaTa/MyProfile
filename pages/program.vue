@@ -24,6 +24,8 @@
       </p>
       <img class="img-fluid border border-secondary" src="/tip-sensu.png" alt="Card image cap">
     </div>
+    <div class="pt-5">
+    </div>
   </div>
 </template>
 
