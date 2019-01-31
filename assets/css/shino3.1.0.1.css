@@ -1,0 +1,22 @@
+p {
+    text-align: justify;
+}
+
+.btn {
+    border-radius: 2px;
+}
+
+.btn-small {
+    border-radius: 1px;
+}
+
+.btn-large {
+    border-radius: 3px;
+}
+
+a,
+a:active,
+a:visited {
+  color: white;
+  text-decoration: none;
+}

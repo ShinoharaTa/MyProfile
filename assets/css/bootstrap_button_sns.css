@@ -26,10 +26,26 @@
     background-color: #00acc1;
 }
 
-.bg-soundcloud{
+.bg-soundcloud {
     background-color: #ff3300;
 }
 
-.bg-youtube{
+.bg-spotify {
+    background-color: #1db954;
+}
+
+.bg-beatport {
+    background-color: #444444;
+}
+
+.bg-itunes {
+    background-color: #1d32ac;
+}
+
+.bg-youtube {
     background-color: #ff0000;
+}
+
+.bg-email {
+    background-color: #ea4335;
 }
