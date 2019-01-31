@@ -1,8 +1,8 @@
 {
-  "name": "page-transition",
+  "name": "Shino3Prof",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
-  "author": "sdras <sarah.drasner@gmail.com>",
+  "description": "T.Shinohara profile page.",
+  "author": "T.Shinohara <takuma1201@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
