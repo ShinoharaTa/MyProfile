@@ -1,3 +1,9 @@
+const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+  router: {
+    base: '/MyProfile/'
+  }
+} : {}
+
 module.exports = {
   /*
   ** Headers of the page
