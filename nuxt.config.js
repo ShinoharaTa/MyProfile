@@ -4,6 +4,10 @@ const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
   }
 } : {}
 
+export default {
+  ...routerBase
+}
+
 module.exports = {
   /*
   ** Headers of the page
