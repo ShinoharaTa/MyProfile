@@ -39,10 +39,10 @@ module.exports = {
     ]
   },
   css: [
-    '@/assets/scss/app.scss',
-    '@/assets/css/bootstrap.min.css',
-    '@/assets/css/shino3.1.0.1.css',
-    '@/assets/css/bootstrap_button_sns.css'
+    '~/assets/scss/app.scss',
+    '~/assets/css/bootstrap.min.css',
+    '~/assets/css/shino3.1.0.1.css',
+    '~/assets/css/bootstrap_button_sns.css'
   ],
   router: {
     middleware: 'pages'
