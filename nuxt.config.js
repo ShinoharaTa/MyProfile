@@ -1,12 +1,12 @@
-const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
-  router: {
-    base: '/MyProfile/'
-  }
-} : {}
+// const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+//   router: {
+//     base: '/MyProfile/'
+//   }
+// } : {}
 
-export default {
-  ...routerBase
-}
+// export default {
+//   ...routerBase
+// }
 
 module.exports = {
   /*
